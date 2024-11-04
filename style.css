@@ -1,0 +1,63 @@
+
+h1 {
+  background-color: rgb(9, 9, 9);
+  background-image: https://img.freepik.com/free-photo/3d-rendering-hexagonal-texture-background_23-2150796421.jpg?t=st=1730724637~exp=1730728237~hmac=c1b6a6546518fd76d677a742fe3c508367063aef1f8ae5d124cd7d3928e027b1&w=1060;
+  font-size: 15px;
+    line-height: 1.2;
+    color:  red ;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+h2 {
+  font-size: 15px;
+  line-height: 1.3;
+  color: hsl(0, 98%, 49%);
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  .card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+}
+body {
+  background-image: url(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY2ZDN0YXhsMmdiZGNveDFveXYyMHBoeGF4czB2d2NjYTlmejhsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sJvz8Qnfly3BOuotGx/giphy.webp);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: hwb(0 1% 1%);
+  background-color: #F5F5F5;
+text-align: center;
+background-size: cover;
+object-fit: cover;
+}
+img {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+}
+
+a {
+  color: #050505;
+  text-decoration: none;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+.card {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
